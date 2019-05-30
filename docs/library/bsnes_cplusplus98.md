@@ -1,5 +1,7 @@
 # Nintendo - SNES / Famicom (bsnes C++98 (v085))
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 bsnes c++98 is a special fork from around v085 that's been backported to work with older compilers. Many platforms Libretro supports such as various consoles (PlayStation 3) are stuck with super-old compilers that don't support the latest c++ features that are in the newer bsnes v094 ports.

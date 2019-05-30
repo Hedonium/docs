@@ -1,5 +1,7 @@
 # Nintendo - SNES / Famicom (Snes9x 2005 Plus)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Port of SNES9x 1.43 for libretro. It was previously called CAT SFC.

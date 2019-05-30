@@ -1,5 +1,7 @@
 # Atari - 2600 (Stella)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Stella is a multi-platform Atari 2600 VCS emulator.

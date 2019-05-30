@@ -1,5 +1,7 @@
 # Nintendo - NES / Famicom (Mesen)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Mesen is a high-accuracy NES and Famicom emulator and NSF player for Windows and Linux.

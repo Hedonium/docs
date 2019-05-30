@@ -1,5 +1,7 @@
 # Sony - PlayStation Portable (PPSSPP)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 A PSP emulator for Android, Windows, Mac and Linux, written in C++.

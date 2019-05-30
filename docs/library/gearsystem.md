@@ -1,5 +1,7 @@
 # Sega - MS/GG (Gearsystem)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Gearsystem is an open source, multi-platform, Sega Master System / Game Gear emulator written in C++.

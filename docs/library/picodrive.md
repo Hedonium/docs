@@ -1,5 +1,7 @@
 # Sega - MS/MD/CD/32X (PicoDrive)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 PicoDrive is an open-source Sega 8/16 bit and 32X emulator which was written having ARM-based handheld devices in mind.

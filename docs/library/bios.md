@@ -1,5 +1,7 @@
 ##**Verifying that you have the right BIOS**
 
+**Page last revised on: {{ git_revision_date }}**
+
 It is very important that the following requirements are met:
 
 1. Location

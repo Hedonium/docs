@@ -1,5 +1,7 @@
 # ZX Spectrum (Fuse)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 The Free Unix Spectrum Emulator (Fuse): an emulator of the 1980s home computer and various clones for Unix, Mac OS X and Windows. 

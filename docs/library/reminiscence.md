@@ -1,5 +1,7 @@
 # Flashback (REminiscence)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Stuart Carnie has ported REminiscence ,Gregory Montoir’s Flashback emulator, over to libretro! REminiscence is a game engine recreation of the 1992/1993 action adventure game Flashback. It is the spiritual successor of Another World/Out Of This World and it distinguishes itself with rotoscoped graphics, polygonal cutscenes, and a Prince of Persia-style gameplay system.

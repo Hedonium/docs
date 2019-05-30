@@ -1,5 +1,7 @@
 # Dinothawr
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Dinothawr is a block pushing puzzle game on slippery surfaces. Our hero is a dinosaur whose friends are trapped in ice. Through puzzles it is your task to free the dinos from their ice prison.

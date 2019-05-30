@@ -1,5 +1,7 @@
 # Nintendo - NES / Famicom (Nestopia UE)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Nestopia is a portable and cycle-accurate NES/Famicom emulator written in C++. Nestopia UE (Undead Edition) is a fork of the original source code, with enhancements from members of the emulation community. This includes support for new platforms, and bug fixes in the emulator core. 

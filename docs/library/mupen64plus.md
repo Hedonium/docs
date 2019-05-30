@@ -1,5 +1,7 @@
 # Nintendo 64 (Mupen64Plus)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Contribute to this documentation
 
 **DOCUMENTATION IS A WORK IN PROGRESS**

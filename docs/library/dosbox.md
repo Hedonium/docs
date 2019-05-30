@@ -1,5 +1,7 @@
 # DOS (DOSBox)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 DOSBox is a multiplatform DOS-emulator 

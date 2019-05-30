@@ -1,5 +1,7 @@
 # Sega - Master System (Emux SMS)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Emux is a cross-platform emulator project with a goal of emulating multiple kinds of machines related to gaming, such as consoles or arcades. Its philosophy is very much inspired by the Linux kernel (hence the name), which brilliantly manages to support multiple machines while keeping drivers entirely platform-independent. Emux is designed in the same way, keeping a code base of CPUs and controllers separate from machines.

@@ -1,5 +1,7 @@
 # The 3DO Company - 3DO (4DO)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 4DO is an open-source, low-level emulator for the 3DO Game Console based on the FreeDO source code.

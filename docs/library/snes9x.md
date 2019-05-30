@@ -1,5 +1,7 @@
 # Nintendo - SNES / Famicom (Snes9x)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Port of upstream mainline **up-to-date** Snes9x, a portable Super Nintendo Entertainment System emulator to libretro.

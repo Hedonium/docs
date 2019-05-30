@@ -1,5 +1,7 @@
 # Bandai - WonderSwan/Color (Beetle Cygne)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne. 

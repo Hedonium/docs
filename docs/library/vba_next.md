@@ -1,5 +1,7 @@
 # Nintendo - Game Boy Advance (VBA Next)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 VBA Next is a Game Boy Advance emulator based on VBA-M 2011 with backported patches for performance and compatibility improvements.

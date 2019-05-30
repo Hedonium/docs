@@ -1,5 +1,7 @@
 # Dummy core
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 'Load Dummy on Core Shutdown' option in RetroArch's Core settings.

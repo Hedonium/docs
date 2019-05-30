@@ -1,5 +1,7 @@
 # Nintendo - NES / Famicom (bnes)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 A port of bNES v083 to libretro.

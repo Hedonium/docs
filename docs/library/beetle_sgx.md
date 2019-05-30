@@ -1,5 +1,7 @@
 # NEC - PC Engine SuperGrafx (Beetle SGX)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Standalone port of Mednafen PCE Fast to libretro.

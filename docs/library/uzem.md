@@ -1,5 +1,7 @@
 # Uzebox (Uzem)
 
+**Page last revised on: {{ git_revision_date }}**
+
 **[This core currently doesn't start](https://github.com/libretro/libretro-uzem/issues/2) so this documentation will remain incomplete until it is fixed.**
 
 **[This core currently doesn't start](https://github.com/libretro/libretro-uzem/issues/2) so this documentation will remain incomplete until it is fixed.**

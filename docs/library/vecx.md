@@ -1,5 +1,7 @@
 # Vectrex (vecx)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 vecx is an emulator for the vector-display based Vectrex video game console.

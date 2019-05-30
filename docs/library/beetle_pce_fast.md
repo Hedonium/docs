@@ -1,5 +1,7 @@
 # NEC - PC Engine / CD (Beetle PCE FAST)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Beetle/Mednafen PCE FAST is a libretro port of Mednafen PCE Fast with the PC Engine SuperGrafx module removed.

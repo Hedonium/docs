@@ -1,5 +1,7 @@
 # RPG Maker 2000/2003 (EasyRPG)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 EasyRPG Player is a game interpreter to play RPG Maker 2000, 2003 and EasyRPG games. It uses the LCF parser library (liblcf) to read RPG Maker game data.

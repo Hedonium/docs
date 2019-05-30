@@ -1,5 +1,7 @@
 # Amstrad - CPC (CrocoDS)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Based on Win-CPC. CrocoDS was originally an Amstrad CPC emulator created for the Nintendo DS and was ported to libretro some time after.

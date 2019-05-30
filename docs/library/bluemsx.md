@@ -1,5 +1,7 @@
 # MSX/SVI/ColecoVision/SG-1000 (blueMSX)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 blueMSX is a cycle accurate emulator that emulates all generations of MSX computers as well as SVI, ColecoVision and Sega SG-1000.

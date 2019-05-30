@@ -1,5 +1,7 @@
 # Nintendo - Game Boy / Color (SameBoy)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 SameBoy is an extremely accurate open source Gameboy (DMG) and Gameboy Color (CGB) emulator, written in portable C.

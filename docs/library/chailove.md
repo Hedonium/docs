@@ -1,5 +1,7 @@
 # ChaiLove
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 [ChaiLove](https://github.com/libretro/libretro-chailove) is a framework for making 2D games with [ChaiScript](http://chaiscript.com/). ChaiLove games can be played with LibRetro/RetroArch through the ChaiLove core.

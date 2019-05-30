@@ -1,5 +1,7 @@
 # Mr.Boom (Bomberman)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Mr.Boom is an up to 8 player Bomberman clone for LibRetro/RetroArch.

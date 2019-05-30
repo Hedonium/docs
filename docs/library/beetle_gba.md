@@ -1,5 +1,7 @@
 # Nintendo - Game Boy Advance (Beetle GBA)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Standalone port of Mednafen GBA to libretro, itself a fork of VBA-M, itself a fork of Visual Boy Advance.

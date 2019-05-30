@@ -1,5 +1,7 @@
 # The Powder Toy
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Based upon the SDL version: [https://github.com/ThePowderToy/The-Powder-Toy](https://github.com/ThePowderToy/The-Powder-Toy)

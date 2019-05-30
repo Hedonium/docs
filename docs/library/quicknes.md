@@ -1,5 +1,7 @@
 # Nintendo - NES / Famicom (QuickNES)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Nes_Emu, the core NES emulator library used by QuickNES, began as a very simple NES emulator sometime in 2004. It was based on the 6502 CPU core and APU sound core used in the Game_Music_Emu sound engine.

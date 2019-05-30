@@ -1,5 +1,7 @@
 # MAME 2003-Plus
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 MAME 2003-Plus (also referred to as MAME 2003+ and mame2003-plus) is a libretro multi-arcade system emulator core which prioritizes 1) usability and frontend integration, 2) performance, and 3) compatibility across the range of libretro-supported platforms including mobile devices, single board computers, and consoles. MAME 2003-Plus is part of a long tradition in arcade emulation of producing platform-specific and performance-optimized MAME builds.

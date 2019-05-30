@@ -1,5 +1,7 @@
 # Nintendo - Game Boy Advance (VBA-M)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 VBA-M is a Game Boy Advance emulator with the goal to improve upon VisualBoyAdvance by integrating the best features from the various builds floating around.

@@ -1,5 +1,7 @@
 # PlayStation (Beetle PSX)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Beetle PSX is a port/fork of Mednafen's PSX module to the libretro API. It can be compiled in C++98 mode. Beetle PSX currently runs on Linux, OSX and Windows.

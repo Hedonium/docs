@@ -1,5 +1,7 @@
 # NEC - PC-98 (Neko Project II Kai)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Awaiting description.

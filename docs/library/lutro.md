@@ -1,5 +1,7 @@
 # Lua Engine (Lutro)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Lutro is an experimental lua game framework that follows the [LÖVE API](https://love2d.org/wiki/Main_Page). Lutro games can be played with LibRetro/RetroArch through the Lutro core. 

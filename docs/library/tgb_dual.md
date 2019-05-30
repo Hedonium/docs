@@ -1,5 +1,7 @@
 # Nintendo - Game Boy / Color (TGB Dual)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 TGB Dual is an open source (GPLv2) GB/GBC emulator with game link cable support.

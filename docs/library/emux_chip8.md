@@ -1,5 +1,7 @@
 # CHIP-8 (Emux)
 
+**Page last revised on: {{ git_revision_date }}**
+
 **This core currently doesn't start so this documentation will remain incomplete until it is fixed.**
 
 ## Contribute to this documentation

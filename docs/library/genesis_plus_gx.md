@@ -1,5 +1,7 @@
 # Sega - MS/GG/MD/CD (Genesis Plus GX)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Genesis Plus GX is an open-source Sega 8/16 bit emulator focused on accuracy and portability. The source code, originally based on Genesis Plus 1.3 by Charles MacDonald, has been heavily modified & enhanced, with respect to initial goals and design, in order to improve the accuracy of emulation, implementing new features and adding support for extra peripherals, cartridge & systems hardware.

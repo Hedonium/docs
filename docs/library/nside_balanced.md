@@ -1,5 +1,7 @@
 # Nintendo - SNES / Famicom (nSide Balanced)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 A fork of higan v106 that reimplements the Balanced profile.

@@ -1,5 +1,7 @@
 #Nintendo - 3DS (Citra Canary/Experimental)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Citra is an experimental open-source Nintendo 3DS emulator/debugger written in C++. It is written with portability in mind.

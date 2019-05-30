@@ -1,5 +1,7 @@
 # Sharp - X68000 (PX68k)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Portable SHARP X68000 Emulator for PSP, Android and other platforms.

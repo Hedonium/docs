@@ -1,5 +1,7 @@
 # Thomson - MO/TO (Theodore)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Theodore is a Thomson MO/TO system emulator based on Daniel Coulom's DCTO8D/DCTO9P/DCMO5 emulators. [Thomson MO/TO](https://en.wikipedia.org/wiki/Thomson_computers) is a family of 8-bit home computers produced by French company Thomson SA between 1982 and 1989.

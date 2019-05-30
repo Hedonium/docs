@@ -1,5 +1,7 @@
 # Nintendo - DS (DeSmuME)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 DeSmuME is a Nintendo DS emulator [http://desmume.org](http://desmume.org)

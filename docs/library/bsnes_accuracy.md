@@ -1,5 +1,7 @@
 # Nintendo - SNES / Famicom (bsnes Accuracy)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 bsnes is a Super Nintendo emulator that began development on 2004-10-14. It focuses on accuracy and clean code above all else. It never uses speed or compatibilty hacks. As a result, the minimum system requirements are greater than with other emulators. bsnes comes in three different profiles (accuracy, balanced and performance) which contain minor differences in the PPU (graphics) emulation. 

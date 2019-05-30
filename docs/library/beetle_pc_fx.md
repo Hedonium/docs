@@ -1,5 +1,7 @@
 # NEC - PC-FX (Beetle PC-FX)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Beetle PC-FX is a port of Mednafen PC-FX video game system emulator for the NEC PC-FX.

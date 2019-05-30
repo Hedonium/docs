@@ -1,5 +1,7 @@
 # Handheld Electronic (GW)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 A libretro core for Game & Watch simulators.

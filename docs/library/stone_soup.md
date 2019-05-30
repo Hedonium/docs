@@ -1,5 +1,7 @@
 # Dungeon Crawl Stone Soup
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 Dungeon Crawl Stone Soup is a free roguelike game of exploration and treasure-hunting in dungeons filled with dangerous and unfriendly monsters in a quest for the mystifyingly fabulous Orb of Zot. 
 

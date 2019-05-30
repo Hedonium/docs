@@ -1,5 +1,7 @@
 # Cave Story (NXEngine)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 NXEngine is a open source reproduction of the [Cave Story game engine](https://en.wikipedia.org/wiki/Cave_Story).

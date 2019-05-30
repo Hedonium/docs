@@ -1,5 +1,7 @@
 # Minecraft (Craft)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 A simple Minecraft clone written in C using modern OpenGL (shaders).

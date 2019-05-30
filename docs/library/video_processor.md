@@ -1,5 +1,7 @@
 # Video Processor
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Libretro core for V4L2 capture devices

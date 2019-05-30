@@ -1,5 +1,7 @@
 # Nintendo - SNES / Famicom (bsnes-mercury Accuracy)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 bsnes-mercury is a fork of higan, aiming to restore some useful features that have been removed, as well as improving performance a bit.

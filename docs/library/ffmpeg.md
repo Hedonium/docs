@@ -1,5 +1,7 @@
 # FFmpeg
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Video/music player implemented in libretro.

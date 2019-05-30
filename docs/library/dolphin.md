@@ -1,5 +1,7 @@
 # Nintendo Gamecube/Wii (Dolphin)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 A Nintendo Gamecube/Wii emulator for Android, Windows, Mac and Linux, written in C++.

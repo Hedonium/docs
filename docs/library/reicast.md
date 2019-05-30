@@ -1,5 +1,7 @@
 # Sega Dreamcast (Reicast)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Contribute to this documentation
 
 In order to propose improvements to this document, [visit its corresponding source page on github](https://github.com/libretro/docs/tree/master/docs/library/reicast.md). Changes are proposed using "Pull Requests."

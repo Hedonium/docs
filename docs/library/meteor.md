@@ -1,5 +1,7 @@
 # Nintendo - Game Boy Advance (Meteor)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Meteor is a Nintendo Gameboy Advance emulator.

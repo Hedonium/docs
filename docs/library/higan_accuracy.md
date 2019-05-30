@@ -1,5 +1,7 @@
 # Nintendo - SNES / Famicom (higan Accuracy)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 A port of higan v106's Super Famicom emulation core to libretro. This core is the most in sync with upstream higan.

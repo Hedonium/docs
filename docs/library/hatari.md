@@ -1,5 +1,7 @@
 # Atari - ST/STE/TT/Falcon (Hatari)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Hatari is an Atari ST/STE/TT/Falcon system emulator that can be used as a libretro core. Hatari tries to emulate the hardware as close as possible so that it is able to run most of the old Atari games and demos.

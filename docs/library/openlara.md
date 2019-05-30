@@ -1,5 +1,7 @@
 # Tomb Raider (OpenLara)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 A new work-in-progress Tomb Raider game engine ported to libretro.

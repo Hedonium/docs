@@ -1,5 +1,7 @@
 # Atari - 7800 (ProSystem)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 ProSystem is an Atari 7800 emulator.

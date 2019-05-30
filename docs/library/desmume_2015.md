@@ -1,5 +1,7 @@
 # Nintendo - DS (DeSmuME 2015)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Port of Desmume to libretro based on Desmume SVN circa 2015. 

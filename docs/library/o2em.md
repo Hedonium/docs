@@ -1,5 +1,7 @@
 # Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 O2EM is an open source multi-platform Odyssey2 / Videopac+ emulator. The Odyssey2 (Videopac/Jopac in Europe) was a video game console created in the late 70s.

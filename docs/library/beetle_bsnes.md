@@ -1,5 +1,7 @@
 # Nintendo - SNES / Famicom (Beetle bsnes)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Standalone port of Mednafen bSNES to libretro, itself a old fork of bsnes 0.59.

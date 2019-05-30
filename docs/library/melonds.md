@@ -1,5 +1,7 @@
 # Nintendo - DS (melonDS)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 !!! warning

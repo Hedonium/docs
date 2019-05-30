@@ -1,5 +1,7 @@
 # Atari - Lynx (Beetle Handy)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Beetle Lynx is an Atari Lynx video game system emulator that can be used as a libretro core. Specifically it's a port of Mednafen Lynx which is a fork of Handy.

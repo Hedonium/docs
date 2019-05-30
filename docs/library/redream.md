@@ -1,5 +1,7 @@
 # Sega - Dreamcast (Redream)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Redream is a work-in-progress SEGA Dreamcast emulator written in C for Mac, Linux and Windows.

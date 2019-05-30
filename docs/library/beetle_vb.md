@@ -1,5 +1,7 @@
 # Nintendo - Virtual Boy (Beetle VB)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Port of Mednafen VB to libretro.

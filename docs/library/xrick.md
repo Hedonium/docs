@@ -1,5 +1,7 @@
 # Rick Dangerous (XRick)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Xrick is an open source implementation of the game "Rick Dangerous".

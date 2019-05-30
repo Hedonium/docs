@@ -1,5 +1,7 @@
 # Nintendo - Game Boy / Color (Gearboy)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Gearboy is an open source, multi-platform, Nintendo Game Boy (DMG) / Game Boy Color (CGB) emulator written in C++.

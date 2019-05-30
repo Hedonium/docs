@@ -1,5 +1,7 @@
 # SNK - Neo Geo Pocket / Color (Beetle NeoPop)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Beetle/Mednafen NGP is a SNK Neo Geo Pocket (Color) video game system emulator based on NeoPop.

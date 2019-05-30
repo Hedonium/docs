@@ -1,5 +1,7 @@
 # Atari - Jaguar (Virtual Jaguar)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Virtual Jaguar is a portable Jaguar emulator which is based on the source code of what used to be Potato Emulation.

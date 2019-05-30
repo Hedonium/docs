@@ -1,5 +1,7 @@
 # Sony - PlayStation (PCSX ReARMed)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 PCSX ReARMed is a fork of PCSX Reloaded. It differs from the latter in that it has special optimizations for systems that have an ARM architecture-based CPU.

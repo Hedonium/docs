@@ -1,5 +1,7 @@
 # Nintendo - Pokémon Mini (PokeMini)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 PokeMini is an emulator for the [Pokémon Mini](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mini) handheld console.

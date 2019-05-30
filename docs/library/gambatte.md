@@ -1,5 +1,7 @@
 # Nintendo - Game Boy / Color (Gambatte)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Gambatte is an accuracy-focused, open-source, cross-platform Game Boy Color emulator written in C++. It is based on hundreds of corner case hardware tests, as well as previous documentation and reverse engineering efforts.

@@ -1,5 +1,7 @@
 # Quake 1 (TyrQuake)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Libretro port of Tyrquake (Quake 1 engine).

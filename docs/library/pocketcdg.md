@@ -1,5 +1,7 @@
 # PocketCDG
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 A MP3 karaoke music player. 

@@ -1,5 +1,7 @@
 # Doom (PrBoom)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Port of prboom to libretro - plays Doom, Doom II, Final Doom and other Doom IWAD mods. 

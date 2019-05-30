@@ -1,5 +1,7 @@
 # Game Music Emu
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Multi-purpose video game console music player. 

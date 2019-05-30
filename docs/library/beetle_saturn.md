@@ -1,5 +1,7 @@
 # Sega - Saturn (Beetle Saturn)
 
+**Page last revised on: {{ git_revision_date }}**
+
 ## Background
 
 Port of standalone Mednafen Saturn to libretro.
